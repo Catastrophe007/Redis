@@ -1,0 +1,9 @@
+*4
+$4
+HSET
+$5
+posts
+$1
+1
+$6
+pookie
