@@ -36,6 +36,8 @@ go run main.go
 ```
 
 The server will start on port `6379` by default (standard Redis port).
+![image](https://github.com/user-attachments/assets/eda9fbf2-bed7-40eb-a27b-6e72f53b93c0)
+
 
 ## Connecting to the Server
 
